@@ -30,9 +30,9 @@ Restrict the users from selecting a date within the particular range of dates by
 
 [Learn More about React DatePicker](https://www.syncfusion.com/react-components/react-datepicker?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react/confirm?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/react?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
 [Documentation](https://react.syncfusion.com/documentation/datepicker/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
@@ -46,11 +46,11 @@ Restrict the users from selecting a date within the particular range of dates by
 
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/react/toolbar?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
-[Knowledge base](https://www.syncfusion.com/kb/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
+[Knowledge base](https://support.syncfusion.com/kb/web/category/72?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
 ## About Syncfusion React Components
 
-The Syncfusion's [React components](https://www.syncfusion.com/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples) library offers over 75 UI components to work with React server-side and client-side (React WebAssembly) projects seamlessly. In addition to DatePicker, we provide popular React Components such as [DataGrid](https://www.syncfusion.com/react-components/react-grid?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples),[Charts](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples), [Scheduler](https://www.syncfusion.com/react-components/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples), [Diagram](https://www.syncfusion.com/react-components/react-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples) and [Word Processor](https://www.syncfusion.com/react-components/react-word-processor?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples).
+The Syncfusion's [React components](https://www.syncfusion.com/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples) library offers over 80 UI components to work with React server-side and client-side (React WebAssembly) projects seamlessly. In addition to DatePicker, we provide popular React Components such as [DataGrid](https://www.syncfusion.com/react-components/react-grid?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples),[Charts](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples), [Scheduler](https://www.syncfusion.com/react-components/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples), [Diagram](https://www.syncfusion.com/react-components/react-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples) and [Word Processor](https://www.syncfusion.com/react-components/react-word-processor?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples).
 
 ### About Syncfusion
 
