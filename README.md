@@ -30,7 +30,7 @@ Restrict the users from selecting a date within the particular range of dates by
 
 [Learn More about React DatePicker](https://www.syncfusion.com/react-components/react-datepicker?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
