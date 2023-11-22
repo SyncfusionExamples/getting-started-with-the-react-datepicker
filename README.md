@@ -40,11 +40,9 @@ Restrict the users from selecting a date within the particular range of dates by
 
 [Community Forums](https://www.syncfusion.com/forums/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/react?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
-[Online example](https://ej2.syncfusion.com/react/demos/#/material/datepicker/default?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
-
-[Video Tutorials](https://www.syncfusion.com/tutorial-videos/react/toolbar?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
+[Online example](https://ej2.syncfusion.com/react/demos/#/bootstrap5/datepicker/default?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
 ## About Syncfusion React Components
 
