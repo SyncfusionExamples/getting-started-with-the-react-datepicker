@@ -34,7 +34,7 @@ Restrict the users from selecting a date within the particular range of dates by
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
-[Documentation](https://react.syncfusion.com/documentation/datepicker/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
+[Documentation](https://ej2.syncfusion.com/react/documentation/datepicker/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
 [View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-react-datepicker?utm_source=github&utm_medium=listing&utm_campaign=react-datepicker-github-samples)
 
