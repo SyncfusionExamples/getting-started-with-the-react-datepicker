@@ -4,7 +4,7 @@ Quickly get started with the Syncfusion React DatePicker sample created using th
 
 Refer to the following documentation to learn about the React DatePicker component: https://ej2.syncfusion.com/react/documentation/datepicker/getting-started/
 
-Check out this online example of the JavaScript Tooltip component: https://ej2.syncfusion.com/react/demos/#/material/datepicker/default
+Check out this online example of the React DatePicker component: https://ej2.syncfusion.com/react/demos/#/material/datepicker/default
 
 ## Project prerequisites
 Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
